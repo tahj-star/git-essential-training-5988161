@@ -1,0 +1,1 @@
+A new line for Git challenge.
